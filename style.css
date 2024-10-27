@@ -1,0 +1,153 @@
+
+
+header {
+    background-color: solid antiquewhite;
+    color: rgb(248, 246, 246);
+    padding: 40px ;
+    text-align: center;
+    background-image: url(bg.png);
+    
+}
+#input{
+    width: 325px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+header .container {
+    display:flow-root;
+    height: 200px;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+nav ul {
+    list-style: none;
+    height: 30px;
+    display: flex;
+    background-color: aquamarine;
+    margin-top: 90px;
+    
+}
+
+nav ul li {
+    margin-right: 30px;
+    
+    margin-left: 150px;
+
+}
+
+nav ul li a {
+    color: black;
+    text-decoration:solid;
+    font-weight: bolder;
+    font-size: normal;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.section {
+    padding: 40px 0;
+   background-color: white;
+}
+
+.section h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+    font-size: larger;
+    color:black;
+}
+#h1{
+    font-size: xx-large;
+}
+#div3{
+    height: 440px;
+    width: 200px;
+    background-color: white;
+    box-shadow: 0 0 5px;
+    display: inline-block;
+    text-align: center;
+    
+}
+#div4{
+    height: 440px;
+    width: 200px;
+    background-color: white;
+    box-shadow: 0 0 5px;
+    display: inline-block;
+    text-align: center;
+    clear: both;
+    
+}
+
+#div5{
+    height: 440px;
+    width: 200px;
+    background-color: white;
+    box-shadow: 0 0 5px;
+    text-align: center;
+    display: inline-block;
+}
+#div6{
+    height: 440px;
+    width: 200px;
+    background-color: white;
+    box-shadow: 0 0 5px;
+    text-align: center;
+    display: inline-block;
+    
+}
+#div7{
+    height: 440px;
+    width: 200px;
+    background-color: white;
+    box-shadow: 0 0 5px;
+    display: inline-block;
+    margin-bottom: 30px;
+    text-align: center;
+}
+#div2{
+    height: 440px;
+    width: 200px;
+    background-color: white;
+    box-shadow: 0 0 5px;
+    display: inline-block;
+ text-align: center;
+ 
+}
+#para2{
+    font-size: medium;
+    text-align: center;
+}
+footer {
+
+    color: rgba(247, 244, 244, 0.954);
+    padding: 20px 0;
+    text-align: center;
+    background-color: gray;
+    }
+    
+    footer p {
+    margin-bottom: 5px;
+    font-size: larger;
+    }
+    
+    footer h2 {
+    margin-top: 0px;
+    text-decoration: underline;
+    font-size: xx-large;
+    color: black;
+    
+    }
+    
